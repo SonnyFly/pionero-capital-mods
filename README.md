@@ -8,13 +8,18 @@
 
 ## 📥 Downloads (immer die neueste Version / always the latest version)
 
-| | Download |
-|---|---|
-| 🛠️ **Pionero Capital Mod Manager** (EXE, kein Python nötig / no Python required) | [PioneroModManager.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/PioneroModManager.zip) |
-| 📦 **Lagerist-Level-Mod** / Stocker Level Mod | [LageristLevelMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/LageristLevelMod.zip) |
-| 🔨 **Hersteller-Level-Mod** / Crafter Level Mod | [HerstellerLevelMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/HerstellerLevelMod.zip) |
-| 🎓 **Kurs-Mod** / Course Mod | [KursMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/KursMod.zip) |
-| 💰 **Gehaltskonto-Mod** / Paycheck Mod | [GehaltskontoMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/GehaltskontoMod.zip) |
+| | Version | Download |
+|---|---|---|
+| 🛠️ **Pionero Capital Mod Manager** (EXE, kein Python nötig / no Python required) | **1.9.0** | [PioneroModManager.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/PioneroModManager.zip) |
+| 📦 **Lagerist-Level-Mod** / Stocker Level Mod | **1.3.0** | [LageristLevelMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/LageristLevelMod.zip) |
+| 🔨 **Hersteller-Level-Mod** / Crafter Level Mod | **1.2.0** | [HerstellerLevelMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/HerstellerLevelMod.zip) |
+| 🎓 **Kurs-Mod** / Course Mod | **1.1.0** | [KursMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/KursMod.zip) |
+| 💰 **Gehaltskonto-Mod** / Paycheck Mod | **1.1.0** | [GehaltskontoMod.zip](https://github.com/SonnyFly/pionero-capital-mods/releases/latest/download/GehaltskontoMod.zip) |
+
+✅ Getestet mit / tested with: **Pionero Capital – Update vom 21.11.2026** (Steam-Build 26829255)
+
+🔄 Ab Mod Manager 1.9.0 siehst du **direkt im Manager**, ob es neuere Versionen gibt – Mod-Updates lassen sich dort mit einem Klick installieren.
+*From Mod Manager 1.9.0 on, the manager itself shows when newer versions are available – mod updates install with one click.*
 
 Alle Versionen & Update-Notes / all versions & update notes: [Releases](https://github.com/SonnyFly/pionero-capital-mods/releases)
 
@@ -31,6 +36,7 @@ Mods mit ein paar Klicks installieren, einstellen und wieder entfernen.
 - 🛡️ Original wird gesichert – „Alle deaktivieren“ stellt das Spiel wieder her
 - 🆕 Erkennt Spiel-Updates – ein Klick und die Mods sind wieder drin
 - 🌐 Deutsch & English
+- 🔄 Zeigt neue Versionen an und installiert Mod-Updates per Klick
 
 ### Installation
 1. `PioneroModManager.zip` herunterladen und irgendwo entpacken.
@@ -62,6 +68,7 @@ Install, configure and remove mods with just a few clicks.
 - 🛡️ Original files are backed up – “Disable all” restores the vanilla game
 - 🆕 Detects game updates – one click and your mods are back
 - 🌐 English & German (switch in the top right corner)
+- 🔄 Shows new versions and installs mod updates with one click
 
 ### Installation
 1. Download `PioneroModManager.zip` and extract it anywhere.
